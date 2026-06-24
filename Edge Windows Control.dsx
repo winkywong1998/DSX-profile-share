@@ -23,7 +23,7 @@
     "IsDsEdgeSelectedProfileDeadzoneTriggerR2Advanced": false,
     "IsDsEdgeSelectedProfileDeadzoneTriggerUnifiedAdvanced": false,
     "VirtualKeyboardRepeatMode": "NativeKeyboard",
-    "ActiveVirtualDevice": "DUALSENSE",
+    "ActiveVirtualDevice": "XBOX_360",
     "PhysicalGamepadViewSkin": "NONE",
     "VirtualGamepadViewSkin": "NONE",
     "SendOutputData": false,
@@ -32,7 +32,7 @@
     "UseDualShockLEDs": false,
     "UseDualSenseRumble": true,
     "UseGameFeedbackPassthrough": true,
-    "UseDualSenseTriggers": true,
+    "UseDualSenseTriggers": false,
     "UseDualSenseLEDs": true,
     "DSEdgeInternalProfileSwitching": 3
   },
@@ -205,21 +205,288 @@
             }
           }
         }
+      },
+      {
+        "id": "bind_1ED08E52",
+        "input": {
+          "mode": "combo",
+          "comboHash": 516984402,
+          "inputHashes": [
+            71
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16475
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16452
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_C571A2FB",
+        "input": {
+          "mode": "combo",
+          "comboHash": 3312558843,
+          "inputHashes": [
+            6
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16475
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16393
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_8D8F5FE7",
+        "input": {
+          "mode": "combo",
+          "comboHash": 2374983655,
+          "inputHashes": [
+            10
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16401
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16451
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_678CE57E",
+        "input": {
+          "mode": "combo",
+          "comboHash": 1737287038,
+          "inputHashes": [
+            11
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16546
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16470
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_4B9BC3F4",
+        "input": {
+          "mode": "combo",
+          "comboHash": 1268499444,
+          "inputHashes": [
+            17
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "single",
+              "kind": "mapping",
+              "mappingHash": 16558
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_BDA3332F",
+        "input": {
+          "mode": "combo",
+          "comboHash": 3181589295,
+          "inputHashes": [
+            18
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "single",
+              "kind": "mapping",
+              "mappingHash": 16559
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_A9808171",
+        "input": {
+          "mode": "combo",
+          "comboHash": 2843771249,
+          "inputHashes": [
+            12
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16475
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16455
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_418A6B15",
+        "input": {
+          "mode": "combo",
+          "comboHash": 1099590421,
+          "inputHashes": [
+            8
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16475
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16401
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16463
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
+      },
+      {
+        "id": "bind_1B87F0AC",
+        "input": {
+          "mode": "combo",
+          "comboHash": 461893804,
+          "inputHashes": [
+            9
+          ]
+        },
+        "activators": {
+          "Single": {
+            "output": {
+              "mode": "hold_until_release",
+              "kind": "advanced",
+              "outputs": [
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16401
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16400
+                },
+                {
+                  "mode": "hold",
+                  "kind": "mapping",
+                  "mappingHash": 16411
+                }
+              ]
+            },
+            "muteInput": true
+          }
+        }
       }
     ]
   },
   "controller_adaptive_triggers": {
     "preset_id": "c88f0582239143f798954104f1bcc974",
     "preset_name": "- NONE -",
-    "lt_type": "OFF",
+    "lt_type": "WEAPON",
     "rt_type": "OFF",
     "lt_feedback_start": 1,
     "lt_feedback_resist": 8,
     "rt_feedback_start": 1,
     "rt_feedback_resist": 8,
-    "lt_weapon_start": 2,
-    "lt_weapon_end": 6,
-    "lt_weapon_resist": 8,
+    "lt_weapon_start": 6,
+    "lt_weapon_end": 8,
+    "lt_weapon_resist": 2,
     "rt_weapon_start": 2,
     "rt_weapon_end": 6,
     "rt_weapon_resist": 8,
@@ -781,7 +1048,7 @@
     "Button_haptics_sweep_wave_duration": 0.8,
     "button_haptics_response_mode": "Impulse",
     "button_haptics_decay_time_ms": 120,
-    "trigger_haptics_enabled": true,
+    "trigger_haptics_enabled": false,
     "trigger_haptics_leftmotor_intensity": 100,
     "trigger_haptics_rightmotor_intensity": 100,
     "trigger_haptics_Rumble_Passthrough": true,
@@ -1116,7 +1383,7 @@
         ]
       },
       "trigger_to_haptics": {
-        "enabled": true,
+        "enabled": false,
         "wave": "SawTooth",
         "frequency": 35,
         "right_wave": "SawTooth",
@@ -1396,6 +1663,7 @@
       "#00FF00",
       "#FF0000FF"
     ],
+    "multicolor_customcolor_instant": false,
     "breathing_speed": 70,
     "breathing_use_random_color": false,
     "strobe_speed": 150,
@@ -1620,7 +1888,7 @@
     "IsTouchpadToMouseScrollWithTwoFingersEnabled": true,
     "TouchpadToMousePreciseSensiButton": 106,
     "TouchpadToMouseFastSensiButton": 111,
-    "TouchpadToMouseNormalSensiSpeed": 100,
+    "TouchpadToMouseNormalSensiSpeed": 50,
     "TouchpadToMousePreciseSensiSpeed": 20,
     "TouchpadToMouseFastSensiSpeed": 275,
     "TouchpadToMouseScrollSensiSpeed": 5,
@@ -1641,5 +1909,5 @@
   "controller_led_active_preset": 0,
   "name": "Edge Windows Control",
   "created_at": "2026-06-03T09:06:09.1956222-04:00",
-  "modified_at": "2026-06-12T08:51:35.1044859-04:00"
+  "modified_at": "2026-06-24T09:41:29.5623062-04:00"
 }
