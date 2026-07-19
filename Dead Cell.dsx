@@ -1256,12 +1256,13 @@
       "#00FF00",
       "#0000FF"
     ],
+    "multicolor_customcolor_instant": false,
     "breathing_speed": 70,
     "breathing_use_random_color": false,
     "strobe_speed": 150,
     "strobe_brightness": 100,
     "strobe_use_random_color": false,
-    "static_color": "#FF1CBE47",
+    "static_color": "#FF0E11DA",
     "breathing_color": "#0078D7",
     "strobe_color": "#0078D7",
     "battery_color_list": [
@@ -1501,5 +1502,5 @@
   "controller_led_active_preset": 0,
   "name": "Dead Cell",
   "created_at": "2026-06-03T07:12:04.4620299-04:00",
-  "modified_at": "2026-06-21T23:48:47.6565501-04:00"
+  "modified_at": "2026-07-18T21:31:12.3204404-04:00"
 }
